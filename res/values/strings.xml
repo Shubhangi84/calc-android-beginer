@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">myapp</string>
+    
+    <string-array name="hitung">
+        <item>tambah</item>
+        <item>kurang</item>
+        <item>bagi</item>
+        <item>kali</item>
+    </string-array>
+
+</resources>
